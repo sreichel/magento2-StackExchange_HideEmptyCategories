@@ -1,4 +1,4 @@
-# Magento2: DisableAdvancedSearch
+# Magento2: Hide Empty Categories
 
 [![Latest Stable Version](http://poser.pugx.org/mse-sv3n/m2-hide-empty-categories/v)](https://packagist.org/packages/mse-sv3n/m2-hide-empty-categories)
 [![Total Downloads](http://poser.pugx.org/mse-sv3n/m2-hide-empty-categories/downloads)](https://packagist.org/packages/mse-sv3n/m2-hide-empty-categories)
