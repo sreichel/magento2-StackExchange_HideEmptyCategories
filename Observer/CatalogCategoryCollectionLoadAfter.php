@@ -44,7 +44,7 @@ class CatalogCategoryCollectionLoadAfter implements ObserverInterface
      * @param Category $category
      * @return bool
      */
-    private function showCategory(Category $category): bool
+    public function showCategory(Category $category): bool
     {
         return $category->getProductCollection()->count() > 0;
     }
