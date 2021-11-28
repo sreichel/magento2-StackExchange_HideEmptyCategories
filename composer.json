@@ -1,0 +1,27 @@
+{
+    "name": "mse-sv3n/m2-hide-empty-categories",
+    "description": "This extension hides the empty categories from navigation men.",
+    "homepage": "https://magento.stackexchange.com/q/229481/46249",
+    "authors": [
+        {
+            "name": "Sven Reichel",
+            "email": "github-sr@hotmail.com",
+            "role": "Author/Maintainer"
+        }
+    ],
+    "require": {
+        "php": ">= 7.1"
+    },
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "StackExchange\\HideEmptyCategories\\": ""
+        }
+    }
+}
